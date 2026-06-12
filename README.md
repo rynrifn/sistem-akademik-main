@@ -1,4 +1,4 @@
-cat > README.md << 'READMEEOF'
+
 # 🎓 Sistem Akademik Sederhana
 
 > Ujian Tengah Semester — Pemrograman Web 2

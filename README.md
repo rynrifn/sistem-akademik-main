@@ -84,6 +84,9 @@ Aplikasi web berbasis **Laravel 12 + MySQL** untuk mengelola data akademik seder
 - CRUD Mahasiswa — Tambah, tampilkan dengan relasi jurusan, edit, hapus
 - CRUD Matakuliah — Tambah, tampilkan dengan relasi jurusan, edit, hapus
 - Validasi Form — Request validation di semua form
+- **Export CSV** untuk semua tabel
+- **Export Excel (XLS)** untuk Jurusan & Matakuliah
+- **Print PDF** untuk semua tabel
 - Seeder — Data dummy siap pakai
 - Pagination — 10 data per halaman
 - Search — Pencarian data di setiap tabel

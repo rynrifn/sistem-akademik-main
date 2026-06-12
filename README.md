@@ -1,5 +1,5 @@
 
-# 🎓 Sistem Akademik Sederhana
+# Sistem Akademik Sederhana
 
 > Ujian Tengah Semester — Pemrograman Web 2
 
